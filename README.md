@@ -4,8 +4,10 @@ This project is a comprehensive backend implementation that covers user authenti
 
 ## How to Run
 
-```npm install
-npm start```
+```
+npm install
+npm start
+```
 
 ## Features
 
