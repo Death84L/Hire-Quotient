@@ -2,13 +2,6 @@
 
 This project is a comprehensive backend implementation that covers user authentication, MongoDB integration for data storage, and RESTful APIs for user profile management, post creation and retrieval, and a commenting system.
 
-## How to Run
-
-```
-npm install
-npm start
-```
-
 ## Features
 
 ### User Authentication:
@@ -45,3 +38,11 @@ Comments are associated with the user who made the comment and include a timesta
 
 Implements comprehensive error handling throughout the application.
 Logs errors for effective debugging and issue resolution.
+
+
+## How to Run
+
+```
+npm install
+npm start
+```
